@@ -6,5 +6,5 @@ export const metadata = {
 }
  
 export default function Page() {
-  return <Link href="/dashboard" >Dashboard</Link>
+  return <Link href="/dashboard" >Olá Azriel Suélio Moreira Armando</Link>
 }
