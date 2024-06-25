@@ -4,7 +4,7 @@ import NestedLayout from '../components/nested-layout'
  
 export default function Page() {
   return (
-    /** Your content */
+    
   )
 }
  
